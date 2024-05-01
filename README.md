@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9e_U2VEe)
+# Implement ResNet18 on CIFAR-100
+A maching learning homework of implementing ResNet18 by PyTorch and training on CIFAR-100, which is a dataset with 100 different classes.
+
+> Read more about CIFAR-100: https://www.cs.toronto.edu/~kriz/cifar.html
+
+
+## Enviornment
+- Python 3.11.0
+- PyTorch 2.3.0+cu118
+
+
+## Result
+The accuracy is about 27% after 50 epochs of training. 
